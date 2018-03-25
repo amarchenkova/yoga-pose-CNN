@@ -6,3 +6,5 @@ https://blog.keras.io/building-powerful-image-classification-models-using-very-l
 and 
 https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
 to build a simple image classification CNN with Keras
+
+My blog post with the changes I made to make this a multi class convolutional neural network and other notes on data structure and splits: https://www.amarchenkova.com/convolutional-neural-network-yoga-poses

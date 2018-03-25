@@ -46,7 +46,7 @@ classifier.fit_generator(training_set,
                          steps_per_epoch = 729 // batch_size, # number of training set images, 729
                          epochs = 1,
                          validation_data = test_set,
-                         validation_steps = 109 // batch_size) # number of test set images, 109
+                         validation_steps = 229 // batch_size) # number of test set images, 229
 
 
-classifier.save('03_25_18_my_model_multiclass10.h5') #save model 
+classifier.save('my_model_multiclass10.h5') #save model 

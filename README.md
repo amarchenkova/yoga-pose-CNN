@@ -8,3 +8,5 @@ https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-pyt
 to build a simple image classification CNN with Keras
 
 My blog post with the changes I made to make this a multi class convolutional neural network and other notes on data structure and splits: http://www.amarchenkova.com/convolutional-neural-network-yoga-poses
+
+Blog post with link to data set: https://www.amarchenkova.com/2018/12/04/data-set-convolutional-neural-network-yoga-pose/
